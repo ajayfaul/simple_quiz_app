@@ -1,5 +1,5 @@
 # simple_quiz_app
-Simple quiz site using HTML, CSS, and Javascript 
+Simple quiz site using HTML, CSS, and Javascript and don't have responsive capabilites for mobile screen size
 
 ## Quiz info
 1. You will have only 30 seconds per each question.
