@@ -8,4 +8,7 @@ Simple quiz site using HTML, CSS, and Javascript
 4. You can't exit from the Quiz while playing.
 5. Answer correctly and you get the score.
 
+## Site Preview
+![Image of the quiz site](img/preview.png)
+
 [Link to livesite](https://ajayfaul-simplequizapp.netlify.app/ "Go to ajayfaul quiz app")
