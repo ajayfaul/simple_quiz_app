@@ -94,7 +94,7 @@ body {
 
 .info_box .info-list .info span{
     font-weight: 600;
-    color: #007bff;
+    color: #ffa600;
 }
 .info_box .buttons{
     height: 60px;
@@ -115,8 +115,24 @@ body {
     border: none;
     outline: none;
     border-radius: 5px;
-    border: 1px solid #007bff;
     transition: all 0.3s ease;
+}
+
+#btn-exit{
+    background: #e90000;
+    color: #ffffff;
+}
+
+#btn-continue{
+    background: #39b957;
+}
+
+#btn-continue:hover{
+    background: #25d84f;
+}
+
+#btn-exit:hover{
+    background: #fc3e3e;
 }
 
 .quiz_box{
@@ -148,8 +164,8 @@ body {
 }
 
 .quiz_box header .timer{
-    color: #004085;
-    background: #cce5ff;
+    color: #ffffff;
+    background: #fa5818;
     border: 1px solid #b8daff;
     height: 45px;
     padding: 0 8px;
@@ -171,12 +187,12 @@ body {
     font-weight: 500;
     height: 30px;
     width: 45px;
-    color: #fff;
+    color: rgb(0, 0, 0);
     border-radius: 5px;
     line-height: 30px;
     text-align: center;
-    background: #343a40;
-    border: 1px solid #343a40;
+    background: #ffffff;
+    /* border: 1px solid #343a40; */
     user-select: none;
 }
 
